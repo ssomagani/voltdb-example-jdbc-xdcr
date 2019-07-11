@@ -12,7 +12,9 @@ to the server to install voltdb dependencies
 * voltdb-ent-9.0/bin/voltdb start
 
 ## 3. Connect the VoltDB instances using XDCR
+* Update the `<connection>` element in deployment.xml to reflect the IP address of the other server
 
 ## 4. Load the schema, stored procedures and initial data
+* `sqlcmd < ddl.sql`
 
 ## 5. Start the application
