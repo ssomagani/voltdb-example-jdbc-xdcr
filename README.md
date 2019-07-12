@@ -8,6 +8,8 @@ You can either use those scripts directly by substituting your own paths or you 
 
 This is an Eclipse project so you should be able to create a project in your workspace if you prefer (requires Gradle plugin)
 
+## Running Instructions
+
 ### 1. Ensure machines are started and application is built
 * `./gradlew jarAll`
 
