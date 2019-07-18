@@ -7,6 +7,6 @@
               <jsonapi enabled="true" />
               </httpd>
 	<dr id="1" role="xdcr">
-		<connection source="54.152.221.68"/>
+		<connection source="18.209.4.196,102.23.19.08"/>
 	</dr>
 </deployment>

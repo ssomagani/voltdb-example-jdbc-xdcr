@@ -6,7 +6,7 @@
               <httpd enabled="true">
               <jsonapi enabled="true" />
               </httpd>
-	<dr id="2" role="xdcr">
-		<connection source="54.82.79.63,102.23.19.08"/>
+	<dr id="3" role="xdcr">
+		<connection source="18.209.4.196,54.82.79.63"/>
 	</dr>
 </deployment>
