@@ -11,6 +11,7 @@ This is an Eclipse project so you should be able to create a project in your wor
 ## Running Instructions
 
 ### 1. Ensure machines are started and application is built
+* Ensure that the necessary ports are open (`https://docs.voltdb.com/AdminGuide/adminserverports.php`)
 * `./gradlew jarAll`
 
 ### 2. Prepare the configuration
